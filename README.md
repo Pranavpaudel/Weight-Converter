@@ -1,1 +1,1 @@
-Tis is a readme file. Just testing out thhe git and its function through pycharm.
+This is a readme file. Just testing out the git and its function through pycharm.
