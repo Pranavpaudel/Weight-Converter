@@ -1,0 +1,1 @@
+Tis is a readme file. Just testing out thhe git and its function through pycharm.
